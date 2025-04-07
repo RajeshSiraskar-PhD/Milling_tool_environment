@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/962033223.svg)](https://doi.org/10.5281/zenodo.15168512)
+
 # Milling Tool Environment
 
 - Author: Rajesh Siraskar
